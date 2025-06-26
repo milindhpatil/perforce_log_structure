@@ -1,0 +1,1 @@
+# perforce_log_structure
